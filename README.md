@@ -1,7 +1,7 @@
 # Mobile-Phone-Screen-Defect-Recognition
 Term Assignment for Digital Image Processing
 
-# 2025 Digital Image Processing 大作业
+# 2025 数字图像处理大作业
 1、手机屏幕表面缺陷：油污、划痕和斑点，共计100张图片。  
 2、使用数字图像处理课程相关内容，设计图像识别程序，识别3种缺陷  
 3、撰写文档，正文不少于15页，详细论述图像处理算法的设计过程，遇到问题，识别结果。文档格式按照东北大学本科毕业设计格式要求。  
